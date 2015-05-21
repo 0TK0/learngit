@@ -2,4 +2,8 @@ zhuyuqing
 on dev zhuyuqing
 1111
 2222
-creating a new branch & simple
+<<<<<<< HEAD
+creating a new branch and simple
+=======
+creating a new branch is quick AND simple
+>>>>>>> featurel
